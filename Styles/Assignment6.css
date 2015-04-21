@@ -1,0 +1,13 @@
+section.section1{background-color: #6633FF; padding: 20px; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; resize: both; }
+
+section.section1 label{width: 450px;}
+
+section.section2{background-color: #DDCCFF; padding: 20px; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; resize: both; }
+
+section.section2 label{width: 450px;}
+
+section.section3{background-color: #DDEEFF; padding: 20px; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; resize: both; }
+
+.example {font-style: italic; color: red; }
+
+.example1 {font-style: italic; color: red; }
