@@ -175,14 +175,15 @@ function DeleteResult(deloutput)
    }
    if (deloutput.WasSuccessful==1)
     {
-      document.getElementById("result").innerHTML = "The operation completed successfully!"
+      document.getElementById("deloutput").innerHTML = "The operation completed successfully!"
     }
     else
     {
-      document.getElementById("result").innerHTML = "The operation was not successful!"
+      document.getElementById("deloutput").innerHTML = "The operation was not successful!"
       + "<br>" + deloutput.Exception;
     }
 }
+
 
 
 
